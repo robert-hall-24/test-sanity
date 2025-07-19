@@ -19,6 +19,8 @@ https://template-astro-clean.sanity.build
 
 #### 1. Initialize template with Sanity CLI
 
+### IGNORE THE BELOW this already done - RH !
+
 Run the command in your Terminal to initialize this template on your local computer.
 
 See the documentation if you are [having issues with the CLI](https://www.sanity.io/help/cli-errors).
@@ -27,7 +29,16 @@ See the documentation if you are [having issues with the CLI](https://www.sanity
 npm create sanity@latest -- --template sanity-io/sanity-template-astro-clean
 ```
 
+#### ONLY RUN what is below step 2 - RH
+
+
 #### 2. Run Studio and Astro app locally
+
+```shell
+cd test-sanity
+```
+
+### PLEASE READ the readME in the test-santiy folder !!! IGNORE the rest of this readME - RH
 
 Navigate to the template directory using `cd <your app name>`, and start the development servers by running the following command
 
